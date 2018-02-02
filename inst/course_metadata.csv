@@ -1,0 +1,103 @@
+course_overview_name,course_excel_name,course_id,free
+arima modeling with r,arima modeling with r,1811,FALSE
+basic statistics,basic statistics,785,TRUE
+beginning bayes in r,beginning bayes in r,2098,TRUE
+big data analysis with revolution r enterprise,big data analysis with re,594,TRUE
+case studies in statistical thinking,case studies in statistic,4674,FALSE
+cleaning data in python,cleaning data in python,2023,FALSE
+cleaning data in r,cleaning data in r,723,FALSE
+correlation and regression,correlation and regressio,1799,FALSE
+data analysis and statistical inference,data analysis and statist,225,TRUE
+"data analysis in r, the data.table way","data analysis in r, the d",616,FALSE
+data manipulation in r with dplyr,data manipulation in r wi,625,FALSE
+data visualization in r,data visualization in r,1498,FALSE
+data visualization in r with ggvis,data visualization in r w,638,FALSE
+data visualization in r with lattice,data visualization in r w,3094,FALSE
+data visualization with ggplot2 (part 1),data visualization with g,774,FALSE
+data visualization with ggplot2 (part 2),data visualization with g,775,FALSE
+data visualization with ggplot2 (part 3),data visualization with g,862,FALSE
+deep learning in python,deep learning in python,1975,FALSE
+exploratory data analysis,exploratory data analysis,1796,FALSE
+exploratory data analysis in r - case study,exploratory data analysis,1414,FALSE
+exploring pitch data with r,exploring pitch data with,943,FALSE
+exploring polling data in r,exploring polling data in,1635,TRUE
+financial trading in r,financial trading in r,1296,FALSE
+forecasting using r,forecasting using r,3002,FALSE
+foundations of inference,foundations of inference,1760,FALSE
+foundations of probability in r,foundations of probabilit,2351,FALSE
+getting and cleaning data with swirl,getting and cleaning data,1000,TRUE
+how to work with quandl in r,how to work with quandl i,281,TRUE
+importing and managing financial data in r,importing and managing fi,1329,FALSE
+importing & cleaning data in r - case studies,importing & cleaning data,1294,FALSE
+importing data in python (part 1),importing data in python,1606,FALSE
+importing data in python (part 2),importing data in python,1607,FALSE
+importing data in r (part 1),importing data in r (part,1477,FALSE
+importing data in r (part 2),importing data in r (part,1478,FALSE
+importing & managing financial data in python,importing & managing fina,3882,FALSE
+interactive data visualization with bokeh,interactive data visualiz,1392,FALSE
+intermediate python for data science,intermediate python for d,799,FALSE
+intermediate r,intermediate r,672,FALSE
+intermediate r for finance,intermediate r for financ,2659,FALSE
+intermediate r - practice,intermediate r - practice,753,FALSE
+introduction to data,introduction to data,1800,FALSE
+introduction to databases in python,introduction to databases,1115,FALSE
+introduction to data visualization with python,introduction to data visu,1761,FALSE
+introduction to git for data science,introduction to git for d,5355,FALSE
+introduction to machine learning,introduction to machine l,682,FALSE
+introduction to r,introduction to r,58,TRUE
+introduction to r for data science (edx),introduction to r for dat,4444,FALSE
+introduction to r for finance,introduction to r for fin,2653,FALSE
+introduction to shell for data science,introduction to shell for,5065,FALSE
+introduction to spark in r using sparklyr,introduction to spark in,3309,FALSE
+introduction to the tidyverse,introduction to the tidyv,4914,FALSE
+introduction to time series analysis,introduction to time seri,1143,FALSE
+intro to computational finance with r,intro to computational fi,224,TRUE
+intro to data.world in python,intro to data.world in py,3872,FALSE
+intro to python for data science,intro to python for data,735,TRUE
+intro to sql for data science,intro to sql for data sci,1946,FALSE
+intro to statistics with r - introduction,intro to statistics with,601,FALSE
+intro to statistics with r - student's t-test,intro to statistics with,602,FALSE
+joining data in postgresql,joining data in postgresq,4785,FALSE
+joining data in r with dplyr,joining data in r with dp,1074,FALSE
+kaggle r tutorial on machine learning,kaggle r tutorial on mach,681,TRUE
+machine learning toolbox,machine learning toolbox,1048,FALSE
+machine learning with the experts - school budgets,machine learning with the,2533,FALSE
+manipulating dataframes with pandas,manipulating dataframes w,1650,FALSE
+manipulating time series data in r - case studies,manipulating time series,1964,FALSE
+manipulating time series data in r with xts & zoo,manipulating time series,1127,FALSE
+merging dataframes with pandas,merging dataframes with p,1681,FALSE
+multiple and logistic regression,multiple and logistic reg,3575,FALSE
+network analysis in python (part 1),network analysis in pytho,1822,FALSE
+object-oriented programming in r - s3 and r6,object-oriented programmi,2000,FALSE
+pandas foundations,pandas foundations,1639,FALSE
+plotly tutorial - plotly and r,plotly tutorial  plotly a,1959,TRUE
+python data science toolbox (part 1),python data science toolb,1532,FALSE
+python data science toolbox (part 1),python data science toolb,1531,FALSE
+python data science toolbox (part 2),python data science toolb,1532,FALSE
+reading data into r with readr,reading data into r with,1561,TRUE
+reporting with r markdown,reporting with r markdown,639,FALSE
+r for the intimidated,r for the intimidated,986,TRUE
+r programming with swirl,r programming with swirl,668,TRUE
+"r, yelp and the search for good indian food","r, yelp and the search fo",1073,TRUE
+sentiment analysis in r,sentiment analysis in r,2016,FALSE
+sentiment analysis in r - the tidy way,sentiment analysis in r,3424,FALSE
+spatial statistics in r,spatial statistics in r,3070,FALSE
+statistical modeling in r (part 1),statistical modeling in r,1585,FALSE
+statistical modeling in r (part 2),statistical modeling in r,1586,FALSE
+statistical thinking in python (part 1),statistical thinking in p,1549,FALSE
+statistical thinking in python (part 2),statistical thinking in p,1550,FALSE
+string manipulation in r with stringr,string manipulation in r,2922,FALSE
+supervised learning in r - classification,supervised learning in r,2906,FALSE
+supervised learning in r - regression,supervised learning in r,3851,FALSE
+supervised learning with scikit-learn,supervised learning with,1939,FALSE
+text mining - bag of words,text mining  bag of words,935,FALSE
+unsupervised learning in python,unsupervised learning in,2072,FALSE
+unsupervised learning in r,unsupervised learning in,1815,FALSE
+visualizing time series data in r,visualizing time series d,2300,FALSE
+working with dates and times in r,working with dates and ti,5348,FALSE
+working with geospatial data in r,working with geospatial d,1816,FALSE
+working with the rstudio ide (part 1),working with the rstudio,944,FALSE
+working with the rstudio ide (part 2),working with the rstudio,1057,FALSE
+working with web data in r,working with web data in,3026,FALSE
+writing efficient r code,writing efficient r code,2987,FALSE
+writing functions in r,writing functions in r,1008,FALSE

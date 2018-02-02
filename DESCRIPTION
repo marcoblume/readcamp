@@ -1,0 +1,25 @@
+Type: Package
+Package: readcamp
+Title: Read 'DataCamp' Group Exports into Tidy Data Frames
+Version: 0.0.0.9000
+Authors@R: c(
+  person("Aaron", "Jacobs", email = "aaron.jacobs@crescendotechnology.com",
+         role = c("aut", "cre")),
+  person("Crescendo Technology Ltd.", role = "cph")
+  )
+Description: Tools for importing and inspecting course information from zip
+  files exported from DataCamp's online interface for group administrators.
+License: GPL (>= 2)
+URL: https://github.com/atheriel/readcamp
+BugReports: https://github.com/atheriel/readcamp/issues
+Imports:
+    digest,
+    dplyr,
+    lubridate,
+    purrr,
+    readr,
+    tibble,
+    tidyr
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
